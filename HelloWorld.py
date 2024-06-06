@@ -15,7 +15,7 @@ def add_two_numbers(a, b):
 
 # Return the difference of two numbers
 subtract_two_numbers(a, b):
-    return a
+    return a-b
 
 
 # Return the quotient of a dividend and divisor
