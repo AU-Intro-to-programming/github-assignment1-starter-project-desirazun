@@ -10,7 +10,7 @@ def hello_line():
 
 # Return the sum of two numbers
 def add_two_numbers(a, b):
-    return a+b
+    return (a+b)
 
 
 # Return the difference of two numbers
